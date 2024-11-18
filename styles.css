@@ -5,5 +5,8 @@ img{
 	border-radius:20px;
 }
 body{
+	
+}
+.link-boxes{
 	display:flex;
 }
